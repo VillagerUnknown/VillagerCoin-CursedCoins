@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "villagerunknown-cursedcoins",
+  "version": "${version}",
+  "name": "VillagerUnknown's Cursed Coins for Villager Coin",
+  "description": "Adds a variety of cursed Copper, Iron, Gold, Emerald, and Netherite coins that apply negative status effects when in a players inventory. ",
+  "authors": ["VillagerUnknown"],
+  "contact": {
+    "homepage":"https://github.com/VillagerUnknown",
+    "sources":"https://github.com/VillagerUnknown/VillagerCoin-CollectableCoins",
+    "issues":"https://github.com/VillagerUnknown/VillagerCoin-CollectableCoins/issues"
+  },
+  "license": "CC-BY-4.0",
+  "icon": "assets/cursedcoins/villagerunknown-cursed-coins.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.villagerunknown.cursedcoins.client.CursedcoinsClient"
+    ],
+    "main": [
+      "me.villagerunknown.cursedcoins.Cursedcoins"
+    ],
+    "modmenu": [
+      "me.villagerunknown.cursedcoins.client.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "cursedcoins.mixins.json",
+    {
+      "config": "cursedcoins.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "villagerunknown-platform": ">=1.2.0",
+    "villagerunknown-villagercoin": ">=1.0.1"
+  }
+}

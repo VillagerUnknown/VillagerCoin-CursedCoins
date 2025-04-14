@@ -1,0 +1,43 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_cursed_gold_wither_coin",
+  "criteria": {
+    "cursed_gold_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:cursed_gold_blaze_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_gold_ghast_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_gold_magma_cube_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_gold_wither_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagercoin.cursed_gold_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:cursed_gold_blaze_coin"
+    },
+    "title": {
+      "translate": "advancements.villagercoin.cursed_gold_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "cursed_gold_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

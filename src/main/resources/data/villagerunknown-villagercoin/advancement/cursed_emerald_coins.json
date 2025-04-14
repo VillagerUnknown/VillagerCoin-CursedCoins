@@ -1,0 +1,40 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_cursed_emerald_slime_coin",
+  "criteria": {
+    "cursed_emerald_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:cursed_emerald_pillager_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_emerald_slime_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_emerald_iron_golem_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagercoin.cursed_emerald_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:cursed_emerald_pillager_coin"
+    },
+    "title": {
+      "translate": "advancements.villagercoin.cursed_emerald_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "cursed_emerald_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

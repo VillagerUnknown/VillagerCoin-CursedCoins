@@ -1,0 +1,81 @@
+{
+  "parent": "villagerunknown-villagercoin:root",
+  "criteria": {
+    "pickup_cursed_copper_iron_golem_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_copper_zombie_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_iron_golem_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_iron_silverfish_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_iron_vex_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_gold_blaze_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_gold_ghast_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_gold_magma_cube_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_gold_wither_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_emerald_iron_golem_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_emerald_pillager_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_emerald_slime_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_netherite_ender_dragon_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_cursed_netherite_wither_coin": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": {
+      "translate": "advancements.villagercoin.cursed_coins.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:cursed_emerald_pillager_coin"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.villagercoin.cursed_coins.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "pickup_cursed_copper_iron_golem_coin",
+      "pickup_cursed_copper_zombie_coin",
+      "pickup_cursed_iron_golem_coin",
+      "pickup_cursed_iron_silverfish_coin",
+      "pickup_cursed_iron_vex_coin",
+      "pickup_cursed_gold_blaze_coin",
+      "pickup_cursed_gold_ghast_coin",
+      "pickup_cursed_gold_magma_cube_coin",
+      "pickup_cursed_gold_wither_coin",
+      "pickup_cursed_emerald_iron_golem_coin",
+      "pickup_cursed_emerald_pillager_coin",
+      "pickup_cursed_emerald_slime_coin",
+      "pickup_cursed_netherite_ender_dragon_coin",
+      "pickup_cursed_netherite_wither_coin"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

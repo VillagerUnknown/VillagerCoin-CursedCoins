@@ -1,0 +1,40 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_cursed_iron_silverfish_coin",
+  "criteria": {
+    "cursed_iron_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:cursed_iron_golem_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_iron_vex_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_iron_silverfish_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagercoin.cursed_iron_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:cursed_iron_golem_coin"
+    },
+    "title": {
+      "translate": "advancements.villagercoin.cursed_iron_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "cursed_iron_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

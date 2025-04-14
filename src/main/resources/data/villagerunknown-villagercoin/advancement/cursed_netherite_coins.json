@@ -1,0 +1,37 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_cursed_netherite_wither_coin",
+  "criteria": {
+    "cursed_netherite_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:cursed_netherite_ender_dragon_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_netherite_wither_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagercoin.cursed_netherite_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:cursed_netherite_wither_coin"
+    },
+    "title": {
+      "translate": "advancements.villagercoin.cursed_netherite_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "cursed_netherite_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

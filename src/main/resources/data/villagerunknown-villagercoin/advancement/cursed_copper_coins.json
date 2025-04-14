@@ -1,0 +1,37 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_cursed_copper_zombie_coin",
+  "criteria": {
+    "cursed_copper_coins": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:cursed_copper_iron_golem_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_copper_zombie_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.villagercoin.cursed_copper_coins.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:cursed_copper_zombie_coin"
+    },
+    "title": {
+      "translate": "advancements.villagercoin.cursed_copper_coins.title"
+    }
+  },
+  "requirements": [
+    [
+      "cursed_copper_coins"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

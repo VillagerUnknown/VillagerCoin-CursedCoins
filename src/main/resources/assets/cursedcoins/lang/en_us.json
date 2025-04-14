@@ -1,0 +1,86 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "tag.item.villagerunknown-villagercoin.cursed": "Cursed Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "Cursed Copper Iron Golem Coin",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "Cursed Copper Zombie Coin",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "Cursed Iron Golem Coin",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "Cursed Iron Silverfish Coin",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "Cursed Iron Vex Coin",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "Cursed Gold Blaze Coin",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "Cursed Gold Ghast Coin",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "Cursed Gold Magma Cube Coin",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "Cursed Gold Wither Coin",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "Cursed Emerald Pillager Coin",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "Cursed Emerald Slime Coin",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "Cursed Emerald Iron Golem Coin",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "Cursed Netherite Ender Dragon Coin",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "Cursed Netherite Wither Coin",
+
+  "advancements.villagercoin.cursed_coins.root.title": "Cursed Coins",
+  "advancements.villagercoin.cursed_coins.root.description": "Cursed by Witches everywhere",
+
+  "advancements.villagercoin.pickup_cursed_copper_iron_golem_coin.title": "The Weight Of Responsibility",
+  "advancements.villagercoin.pickup_cursed_copper_iron_golem_coin.description": "Acquire a Cursed Copper Iron Golem Coin",
+
+  "advancements.villagercoin.pickup_cursed_copper_zombie_coin.title": "A Taste For Fine Dining",
+  "advancements.villagercoin.pickup_cursed_copper_zombie_coin.description": "Acquire a Cursed Copper Zombie Coin",
+
+  "advancements.villagercoin.pickup_cursed_iron_golem_coin.title": "A Hard Day's Work",
+  "advancements.villagercoin.pickup_cursed_iron_golem_coin.description": "Acquire a Cursed Iron Golem Coin",
+
+  "advancements.villagercoin.pickup_cursed_iron_vex_coin.title": "Money With Wings",
+  "advancements.villagercoin.pickup_cursed_iron_vex_coin.description": "Acquire a Cursed Iron Vex Coin",
+
+  "advancements.villagercoin.pickup_cursed_iron_silverfish_coin.title": "Small But Heavy",
+  "advancements.villagercoin.pickup_cursed_iron_silverfish_coin.description": "Acquire a Cursed Iron Silverfish Coin",
+
+  "advancements.villagercoin.pickup_cursed_gold_blaze_coin.title": "Feel The Blaze",
+  "advancements.villagercoin.pickup_cursed_gold_blaze_coin.description": "Acquire a Cursed Gold Blaze Coin",
+
+  "advancements.villagercoin.pickup_cursed_gold_ghast_coin.title": "A Rich And Heavy Story",
+  "advancements.villagercoin.pickup_cursed_gold_ghast_coin.description": "Acquire a Cursed Gold Ghast Coin",
+
+  "advancements.villagercoin.pickup_cursed_gold_magma_cube_coin.title": "Liquid Hot Magma",
+  "advancements.villagercoin.pickup_cursed_gold_magma_cube_coin.description": "Acquire a Cursed Gold Magma Cube Coin",
+
+  "advancements.villagercoin.pickup_cursed_gold_wither_coin.title": "Wither From The Weight",
+  "advancements.villagercoin.pickup_cursed_gold_wither_coin.description": "Acquire a Cursed Gold Wither Coin",
+
+  "advancements.villagercoin.pickup_cursed_emerald_pillager_coin.title": "A Bad Yomen",
+  "advancements.villagercoin.pickup_cursed_emerald_pillager_coin.description": "Acquire a Cursed Emerald Pillager Coin",
+
+  "advancements.villagercoin.pickup_cursed_emerald_slime_coin.title": "A Slimy Transaction",
+  "advancements.villagercoin.pickup_cursed_emerald_slime_coin.description": "Acquire a Cursed Emerald Slime Coin",
+
+  "advancements.villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "The Weight Of Riches",
+  "advancements.villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "Acquire a Cursed Emerald Iron Golem Coin",
+
+  "advancements.villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "The Dragon's Hunger",
+  "advancements.villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "Acquire a Cursed Netherite Ender Dragon Coin",
+
+  "advancements.villagercoin.pickup_cursed_netherite_wither_coin.title": "The Worth Of A Wither",
+  "advancements.villagercoin.pickup_cursed_netherite_wither_coin.description": "Acquire a Cursed Netherite Wither Coin",
+
+  "advancements.villagercoin.cursed_copper_coins.title": "Unlucky Penny",
+  "advancements.villagercoin.cursed_copper_coins.description": "Acquire all of the Cursed Copper Coins",
+
+  "advancements.villagercoin.cursed_iron_coins.title": "A Heavy Pocket",
+  "advancements.villagercoin.cursed_iron_coins.description": "Acquire all of the Cursed Iron Coins",
+
+  "advancements.villagercoin.cursed_gold_coins.title": "Cursed Treasure Hunter",
+  "advancements.villagercoin.cursed_gold_coins.description": "Acquire all of the Cursed Gold Coins",
+
+  "advancements.villagercoin.cursed_emerald_coins.title": "The Curses Of Being Rich",
+  "advancements.villagercoin.cursed_emerald_coins.description": "Acquire all of the Cursed Emerald Coins",
+
+  "advancements.villagercoin.cursed_netherite_coins.title": "The Cost Of Fame",
+  "advancements.villagercoin.cursed_netherite_coins.description": "Acquire all of the Cursed Netherite Coins"
+
+}
