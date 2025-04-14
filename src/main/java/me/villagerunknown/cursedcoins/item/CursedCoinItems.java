@@ -30,6 +30,7 @@ public class CursedCoinItems {
 	public static final Item CURSED_NETHERITE_ENDER_DRAGON_COIN;
 //	public static final Item CURSED_NETHERITE_ENDERMAN_COIN;
 	public static final Item CURSED_NETHERITE_WITHER_COIN;
+	public static final Item CURSED_NETHERITE_SKULL_CROSSBONES_COIN;
 	
 	public CursedCoinItems() {}
 	
@@ -55,6 +56,7 @@ public class CursedCoinItems {
 		CURSED_NETHERITE_ENDER_DRAGON_COIN = InventoryEffectCoinFeature.registerCraftableInventoryEffectCoinItem( "cursed_netherite_ender_dragon_coin", CollectableCoinFeature.NETHERITE_VALUE, CoinFeature.NETHERITE_RARITY, CollectableCoinFeature.NETHERITE_DROP_CHANCE, CoinFeature.NETHERITE_FLIP_CHANCE, CollectableCoinFeature.NETHERITE_MAXIMUM_IN_CIRCULATION, StructuresIncludeCoinsFeature.EPIC_LOOT_TABLES, MobsDropCoinsFeature.EPIC_MOB_DROPS, List.of(new SuspiciousStewEffectsComponent.StewEffect(StatusEffects.HUNGER, 5 ),new SuspiciousStewEffectsComponent.StewEffect(StatusEffects.LEVITATION, 5 )) );
 //		CURSED_NETHERITE_ENDERMAN_COIN = InventoryEffectCoinFeature.registerCraftableInventoryEffectCoinItem( "cursed_netherite_enderman_coin", CollectableCoinFeature.NETHERITE_VALUE, CoinFeature.NETHERITE_RARITY, CollectableCoinFeature.NETHERITE_DROP_CHANCE, CoinFeature.NETHERITE_FLIP_CHANCE, CollectableCoinFeature.NETHERITE_MAXIMUM_IN_CIRCULATION, StructuresIncludeCoinsFeature.EPIC_LOOT_TABLES, MobsDropCoinsFeature.EPIC_MOB_DROPS );
 		CURSED_NETHERITE_WITHER_COIN = InventoryEffectCoinFeature.registerCraftableInventoryEffectCoinItem( "cursed_netherite_wither_coin", CollectableCoinFeature.NETHERITE_VALUE, CoinFeature.NETHERITE_RARITY, CollectableCoinFeature.NETHERITE_DROP_CHANCE, CoinFeature.NETHERITE_FLIP_CHANCE, CollectableCoinFeature.NETHERITE_MAXIMUM_IN_CIRCULATION, StructuresIncludeCoinsFeature.EPIC_LOOT_TABLES, MobsDropCoinsFeature.EPIC_MOB_DROPS, List.of(new SuspiciousStewEffectsComponent.StewEffect(StatusEffects.WITHER, 5 ),new SuspiciousStewEffectsComponent.StewEffect(StatusEffects.LEVITATION, 5 )) );
+		CURSED_NETHERITE_SKULL_CROSSBONES_COIN = InventoryEffectCoinFeature.registerCraftableInventoryEffectCoinItem( "cursed_netherite_skull_crossbones_coin", CollectableCoinFeature.NETHERITE_VALUE, CoinFeature.NETHERITE_RARITY, CollectableCoinFeature.NETHERITE_DROP_CHANCE, CoinFeature.NETHERITE_FLIP_CHANCE, CollectableCoinFeature.NETHERITE_MAXIMUM_IN_CIRCULATION, StructuresIncludeCoinsFeature.EPIC_LOOT_TABLES, MobsDropCoinsFeature.EPIC_MOB_DROPS, List.of(new SuspiciousStewEffectsComponent.StewEffect(StatusEffects.INSTANT_DAMAGE, 5 )) );
 	}
 	
 }

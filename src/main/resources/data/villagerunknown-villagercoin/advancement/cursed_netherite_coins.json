@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:pickup_cursed_netherite_wither_coin",
+  "parent": "villagerunknown-villagercoin:pickup_cursed_netherite_skull_crossbones_coin",
   "criteria": {
     "cursed_netherite_coins": {
       "conditions": {
@@ -9,6 +9,9 @@
           },
           {
             "items": "villagerunknown-villagercoin:cursed_netherite_wither_coin"
+          },
+          {
+            "items": "villagerunknown-villagercoin:cursed_netherite_skull_crossbones_coin"
           }
         ]
       },
@@ -22,7 +25,7 @@
     "frame": "challenge",
     "icon": {
       "count": 1,
-      "id": "villagerunknown-villagercoin:cursed_netherite_wither_coin"
+      "id": "villagerunknown-villagercoin:cursed_netherite_skull_crossbones_coin"
     },
     "title": {
       "translate": "advancements.villagercoin.cursed_netherite_coins.title"

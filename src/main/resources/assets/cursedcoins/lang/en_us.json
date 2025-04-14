@@ -22,6 +22,7 @@
 
   "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "Cursed Netherite Ender Dragon Coin",
   "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "Cursed Netherite Wither Coin",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "Cursed Netherite Skull & Crossbones Coin",
 
   "advancements.villagercoin.cursed_coins.root.title": "Cursed Coins",
   "advancements.villagercoin.cursed_coins.root.description": "Cursed by Witches everywhere",
@@ -67,6 +68,9 @@
 
   "advancements.villagercoin.pickup_cursed_netherite_wither_coin.title": "The Worth Of A Wither",
   "advancements.villagercoin.pickup_cursed_netherite_wither_coin.description": "Acquire a Cursed Netherite Wither Coin",
+
+  "advancements.villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "A Risky Gamble",
+  "advancements.villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "Acquire a Cursed Netherite Skull & Crossbones Coin",
 
   "advancements.villagercoin.cursed_copper_coins.title": "Unlucky Penny",
   "advancements.villagercoin.cursed_copper_coins.description": "Acquire all of the Cursed Copper Coins",
