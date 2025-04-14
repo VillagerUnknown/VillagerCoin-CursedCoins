@@ -16,6 +16,16 @@ When a coin is destroyed, and removed from the world, the maximum amount can be 
 * Optionally find cursed coins in vanilla structures.
 * Optionally earn cursed coins by killing some vanilla mobs.
 
+**Limited Quantities**
+
+Each type of coin has a limited number in circulation.
+
+- Copper: 5
+- Iron: 4
+- Gold: 3
+- Emerald: 2
+- Netherite: 1
+
 ## Support
 
 * Request features and report bugs at https://github.com/VillagerUnknown/VillagerCoin-CursedCoins/issues
