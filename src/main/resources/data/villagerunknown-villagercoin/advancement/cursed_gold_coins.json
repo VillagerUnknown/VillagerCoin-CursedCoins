@@ -23,7 +23,7 @@
   },
   "display": {
     "description": {
-      "translate": "advancements.villagercoin.cursed_gold_coins.description"
+      "translate": "advancements.villagerunknown-villagercoin.cursed_gold_coins.description"
     },
     "frame": "challenge",
     "icon": {
@@ -31,7 +31,7 @@
       "id": "villagerunknown-villagercoin:cursed_gold_blaze_coin"
     },
     "title": {
-      "translate": "advancements.villagercoin.cursed_gold_coins.title"
+      "translate": "advancements.villagerunknown-villagercoin.cursed_gold_coins.title"
     }
   },
   "requirements": [

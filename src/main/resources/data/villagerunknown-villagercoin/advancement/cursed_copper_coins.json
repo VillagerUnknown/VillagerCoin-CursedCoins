@@ -17,7 +17,7 @@
   },
   "display": {
     "description": {
-      "translate": "advancements.villagercoin.cursed_copper_coins.description"
+      "translate": "advancements.villagerunknown-villagercoin.cursed_copper_coins.description"
     },
     "frame": "challenge",
     "icon": {
@@ -25,7 +25,7 @@
       "id": "villagerunknown-villagercoin:cursed_copper_zombie_coin"
     },
     "title": {
-      "translate": "advancements.villagercoin.cursed_copper_coins.title"
+      "translate": "advancements.villagerunknown-villagercoin.cursed_copper_coins.title"
     }
   },
   "requirements": [

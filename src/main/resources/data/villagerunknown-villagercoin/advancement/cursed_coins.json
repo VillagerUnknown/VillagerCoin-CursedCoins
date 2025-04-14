@@ -51,7 +51,7 @@
     "announce_to_chat": false,
     "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
     "description": {
-      "translate": "advancements.villagercoin.cursed_coins.root.description"
+      "translate": "advancements.villagerunknown-villagercoin.cursed_coins.root.description"
     },
     "icon": {
       "count": 1,
@@ -59,7 +59,7 @@
     },
     "show_toast": false,
     "title": {
-      "translate": "advancements.villagercoin.cursed_coins.root.title"
+      "translate": "advancements.villagerunknown-villagercoin.cursed_coins.root.title"
     }
   },
   "requirements": [

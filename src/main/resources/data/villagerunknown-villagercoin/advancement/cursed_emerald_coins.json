@@ -20,7 +20,7 @@
   },
   "display": {
     "description": {
-      "translate": "advancements.villagercoin.cursed_emerald_coins.description"
+      "translate": "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description"
     },
     "frame": "challenge",
     "icon": {
@@ -28,7 +28,7 @@
       "id": "villagerunknown-villagercoin:cursed_emerald_pillager_coin"
     },
     "title": {
-      "translate": "advancements.villagercoin.cursed_emerald_coins.title"
+      "translate": "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title"
     }
   },
   "requirements": [
