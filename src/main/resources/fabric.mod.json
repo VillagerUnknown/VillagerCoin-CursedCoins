@@ -3,7 +3,7 @@
   "id": "villagerunknown-cursedcoins",
   "version": "${version}",
   "name": "VillagerUnknown's Cursed Coins for Villager Coin",
-  "description": "Adds a variety of cursed Copper, Iron, Gold, Emerald, and Netherite coins, that apply harmful status effects when in a player's inventory, to Villager Coin.",
+  "description": "Adds a variety of cursed Copper, Iron, Gold, Emerald, and Netherite coins to Villager Coin that apply harmful status effects when in a player's inventory.",
   "authors": ["VillagerUnknown"],
   "contact": {
     "homepage":"https://github.com/VillagerUnknown",
