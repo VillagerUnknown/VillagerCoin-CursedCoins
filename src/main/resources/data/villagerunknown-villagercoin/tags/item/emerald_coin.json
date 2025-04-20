@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "villagerunknown-villagercoin:cursed_emerald_pillager_coin",
+    "villagerunknown-villagercoin:cursed_emerald_slime_coin",
+    "villagerunknown-villagercoin:cursed_emerald_iron_golem_coin"
+  ]
+}

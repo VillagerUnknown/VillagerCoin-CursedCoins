@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "villagerunknown-villagercoin:cursed_iron_golem_coin",
+    "villagerunknown-villagercoin:cursed_iron_vex_coin",
+    "villagerunknown-villagercoin:cursed_iron_silverfish_coin"
+  ]
+}
