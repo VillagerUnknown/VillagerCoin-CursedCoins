@@ -25,9 +25,9 @@
     ]
   },
   "mixins": [
-    "cursedcoins.mixins.json",
+    "villagercoin-cursedcoins.mixins.json",
     {
-      "config": "cursedcoins.client.mixins.json",
+      "config": "villagercoin-cursedcoins.client.mixins.json",
       "environment": "client"
     }
   ],
