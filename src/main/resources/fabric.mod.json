@@ -25,9 +25,9 @@
     ]
   },
   "mixins": [
-    "cursedcoins.mixins.json",
+    "villagercoin-cursedcoins.mixins.json",
     {
-      "config": "cursedcoins.client.mixins.json",
+      "config": "villagercoin-cursedcoins.client.mixins.json",
       "environment": "client"
     }
   ],
@@ -36,6 +36,6 @@
     "fabric": "*",
     "minecraft": "${minecraft_version}",
     "villagerunknown-platform": ">=1.2.0",
-    "villagerunknown-villagercoin": ">=1.0.3"
+    "villagerunknown-villagercoin": ">=1.0.6"
   }
 }
