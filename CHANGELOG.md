@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3]
+
+### Changed
+
+- Changed supported Villager Coin version to 1.0.6
+
+## [1.0.2]
+
+### Changed
+
+- Changed supported Villager Coin version to 1.0.3
+
 ## [1.0.1]
 
 ### Changed
