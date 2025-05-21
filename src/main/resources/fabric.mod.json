@@ -10,7 +10,7 @@
     "sources":"https://github.com/VillagerUnknown/VillagerCoin-CollectableCoins",
     "issues":"https://github.com/VillagerUnknown/VillagerCoin-CollectableCoins/issues"
   },
-  "license": "CC-BY-4.0",
+  "license": "MIT",
   "icon": "assets/villagerunknown-cursedcoins/villagerunknown-cursed-coins.png",
   "environment": "*",
   "entrypoints": {
