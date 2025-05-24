@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4]
+
+### Changed
+
+- Changed supported Platform version to 1.3.0.
+- Changed supported Villager Coin version to 1.0.8.
+
 ## [1.0.3]
 
 ### Changed
