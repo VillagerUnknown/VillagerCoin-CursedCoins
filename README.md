@@ -66,3 +66,10 @@ Each type of coin has a limited number in circulation.
 
 * Request features and report bugs at https://github.com/VillagerUnknown/VillagerCoin-CursedCoins/issues
 * View the changelog at https://github.com/VillagerUnknown/VillagerCoin-CursedCoins/blob/main/CHANGELOG.md
+
+### Supported Languages
+
+A **HUGE** thanks to the users that contributed translations!
+
+* English
+* 简体中文 (Simplified Chinese) by Github user Ansurfen
