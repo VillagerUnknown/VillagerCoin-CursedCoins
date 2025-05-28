@@ -1,0 +1,94 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "text.autoconfig.villagerunknown-cursedcoins.category.General": "通用设置",
+
+  "text.autoconfig.villagerunknown-cursedcoins.option.enableTheUnknown": "启用未知功能",
+
+  "tag.item.villagerunknown-villagercoin.cursed": "诅咒村民币",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "诅咒铜铁傀儡币",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "诅咒铜僵尸币",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "诅咒铁傀儡币",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "诅咒铁蠹虫币",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "诅咒铁恼鬼币",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "诅咒金烈焰人币",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "诅咒金恶魂币",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "诅咒金岩浆怪币",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "诅咒金凋灵币",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "诅咒绿宝石掠夺者币",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "诅咒绿宝石史莱姆币",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "诅咒绿宝石铁傀儡币",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "诅咒下界合金末影龙币",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "诅咒下界合金凋灵币",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "诅咒下界合金骷髅币",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "诅咒币",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "被女巫们诅咒",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "责任之重",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "获得一个诅咒铜铁傀儡币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "美食家的品味",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "获得一个诅咒铜僵尸币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "辛苦的一天",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "获得一个诅咒铁傀儡币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "带翅膀的钱",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "获得一个诅咒铁恼鬼币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "小而沉重",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "获得一个诅咒铁蠹虫币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "感受烈焰",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "获得一个诅咒金烈焰人币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "沉重而富有的故事",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "获得一个诅咒金恶魂币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "滚烫的岩浆",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "获得一个诅咒金岩浆怪币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "凋灵之重",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "获得一个诅咒金凋灵币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "不祥之兆",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "获得一个诅咒绿宝石掠夺者币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "粘稠的交易",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "获得一个诅咒绿宝石史莱姆币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "财富之重",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "获得一个诅咒绿宝石铁傀儡币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "龙之饥渴",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "获得一个诅咒下界合金末影龙币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "凋灵的含金量",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "获得一个诅咒下界合金凋零币",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "危险的赌注",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "获得一个诅咒下界合金骷髅币",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "不幸的铜币",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "收集所有诅咒铜币",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "沉重的口袋",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "收集所有诅咒铁币",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "被诅咒的寻宝者",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "收集所有诅咒金币",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "富有的诅咒",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "收集所有诅咒绿宝石币",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "名声的代价",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "收集所有诅咒下界合金币"
+
+}
