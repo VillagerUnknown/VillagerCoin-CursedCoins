@@ -2,12 +2,6 @@
 
   "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
 
-  "text.autoconfig.villagerunknown-cursedcoins.category.General": "通用设置",
-
-  "text.autoconfig.villagerunknown-cursedcoins.option.enableTheUnknown": "启用未知功能",
-
-  "tag.item.villagerunknown-villagercoin.cursed": "诅咒村民币",
-
   "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "诅咒铜铁傀儡币",
   "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "诅咒铜僵尸币",
 
