@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "आयरन गोलम की शापित तांबे की सिक्का",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "ज़ोंबी की शापित तांबे की सिक्का",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "गोलम की शापित लोहे की सिक्का",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "सिल्वरफ़िश की शापित लोहे की सिक्का",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "वेक्स की शापित लोहे की सिक्का",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "ब्लेज़ की शापित सोने की सिक्का",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "घास्ट की शापित सोने की सिक्का",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "मैग्मा क्यूब की शापित सोने की सिक्का",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "विदर की शापित सोने की सिक्का",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "पिलेजर की शापित पन्ना की सिक्का",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "स्लाइम की शापित पन्ना की सिक्का",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "आयरन गोलम की शापित पन्ना की सिक्का",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "एंडर ड्रैगन की शापित नेथराइट सिक्का",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "विदर की शापित नेथराइट सिक्का",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "हड्डी और खोपड़ी की शापित नेथराइट सिक्का",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "शापित सिक्के",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "दुनिया भर की चुड़ैलों द्वारा शापित",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "ज़िम्मेदारी का भार",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "आयरन गोलम की शापित तांबे की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "उत्तम स्वाद के लिए पसंद",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "ज़ोंबी की शापित तांबे की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "कड़ी मेहनत का दिन",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "गोलम की शापित लोहे की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "पंखों वाला धन",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "वेक्स की शापित लोहे की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "छोटा लेकिन भारी",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "सिल्वरफ़िश की शापित लोहे की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "आग को महसूस करो",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "ब्लेज़ की शापित सोने की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "समृद्ध इतिहास",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "घास्ट की शापित सोने की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "गरम मैग्मा",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "मैग्मा क्यूब की शापित सोने की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "वज़न से सड़न",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "विदर की शापित सोने की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "एक अशुभ संकेत",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "पिलेजर की शापित पन्ना की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "चिपचिपा सौदा",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "स्लाइम की शापित पन्ना की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "धन का भार",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "आयरन गोलम की शापित पन्ना की सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "ड्रैगन की भूख",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "एंडर ड्रैगन की शापित नेथराइट सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "विदर की कीमत",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "विदर की शापित नेथराइट सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "जोखिम भरा दांव",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "हड्डी और खोपड़ी की शापित नेथराइट सिक्का प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "दुर्भाग्य का पैसा",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "सभी शापित तांबे की सिक्कों को प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "भारी जेब",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "सभी शापित लोहे की सिक्कों को प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "शापित खजाना शिकारी",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "सभी शापित सोने की सिक्कों को प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "धन का अभिशाप",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "सभी शापित पन्ना की सिक्कों को प्राप्त करें",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "यश की कीमत",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "सभी शापित नेथराइट सिक्कों को प्राप्त करें"
+
+}

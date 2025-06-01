@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "Pièce Maudite en Cuivre du Golem de Fer",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "Pièce Maudite en Cuivre du Zombie",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "Pièce Maudite en Fer du Golem",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "Pièce Maudite en Fer du Poisson d’Argent",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "Pièce Maudite en Fer du Vex",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "Pièce Maudite en Or du Blaze",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "Pièce Maudite en Or du Ghast",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "Pièce Maudite en Or du Cube de Magma",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "Pièce Maudite en Or du Wither",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "Pièce Maudite en Émeraude du Pillard",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "Pièce Maudite en Émeraude du Slime",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "Pièce Maudite en Émeraude du Golem de Fer",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "Pièce Maudite en Netherite du Dragon de l’End",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "Pièce Maudite en Netherite du Wither",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "Pièce Maudite en Netherite des Crânes et des Os",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "Pièces Maudites",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "Maudites par des sorcières du monde entier",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "Le Poids de la Responsabilité",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "Obtenez une Pièce Maudite en Cuivre du Golem de Fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "Un Goût Raffiné",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "Obtenez une Pièce Maudite en Cuivre du Zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "Une Journée de Travail Difficile",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "Obtenez une Pièce Maudite en Fer du Golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "De l’Argent avec des Ailes",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "Obtenez une Pièce Maudite en Fer du Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "Petit mais Lourd",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "Obtenez une Pièce Maudite en Fer du Poisson d’Argent",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "Ressens le Feu",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "Obtenez une Pièce Maudite en Or du Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "Une Histoire Lourde et Riche",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "Obtenez une Pièce Maudite en Or du Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "Magma Bouillant",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "Obtenez une Pièce Maudite en Or du Cube de Magma",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "Putréfaction par le Poids",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "Obtenez une Pièce Maudite en Or du Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "Un Signe de Malheur",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "Obtenez une Pièce Maudite en Émeraude du Pillard",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "Une Affaire Gluante",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "Obtenez une Pièce Maudite en Émeraude du Slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "Le Poids de la Richesse",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "Obtenez une Pièce Maudite en Émeraude du Golem de Fer",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "La Faim du Dragon",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "Obtenez une Pièce Maudite en Netherite du Dragon de l’End",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "Le Prix du Wither",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "Obtenez une Pièce Maudite en Netherite du Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "Un Pari Risqué",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "Obtenez une Pièce Maudite en Netherite des Crânes et des Os",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "Sou du Malheur",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "Obtenez toutes les Pièces Maudites en Cuivre",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "Poche Lourde",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "Obtenez toutes les Pièces Maudites en Fer",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "Chasseur de Trésors Maudits",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "Obtenez toutes les Pièces Maudites en Or",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "La Malédiction de la Richesse",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "Obtenez toutes les Pièces Maudites en Émeraude",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "Le Prix de la Gloire",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "Obtenez toutes les Pièces Maudites en Netherite"
+
+}

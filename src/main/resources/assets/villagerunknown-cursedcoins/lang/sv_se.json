@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "Förbannad Kopparmynt från Järngolem",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "Förbannad Kopparmynt från Zombie",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "Förbannad Järnmynt från Golem",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "Förbannad Järnmynt från Silverfisk",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "Förbannad Järnmynt från Vex",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "Förbannad Guldmynt från Blaze",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "Förbannad Guldmynt från Ghast",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "Förbannad Guldmynt från Magmakub",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "Förbannad Guldmynt från Wither",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "Förbannad Smaragdmynt från Pillager",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "Förbannad Smaragdmynt från Slime",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "Förbannad Smaragdmynt från Järngolem",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "Förbannad Netheritmynt från Enderdrake",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "Förbannad Netheritmynt från Wither",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "Förbannad Netheritmynt från Ben och Skallar",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "Förbannade Mynt",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "Förbannade av häxor från hela världen",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "Ansvarets Vikt",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "Få en förbannad kopparmynt från en järngolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "En Smak för Finkultur",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "Få en förbannad kopparmynt från en zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "En Hård Arbetsdag",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "Få en förbannad järnmynt från en golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "Pengar med Vingar",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "Få en förbannad järnmynt från en vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "Liten men Tung",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "Få en förbannad järnmynt från en silverfisk",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "Känn Elden",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "Få en förbannad guldmynt från en blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "En Rik och Tung Historia",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "Få en förbannad guldmynt från en ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "Het Magma",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "Få en förbannad guldmynt från en magmakub",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "Förfall Genom Vikt",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "Få en förbannad guldmynt från en wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "Ett Olycksbådande Tecken",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "Få en förbannad smaragdmynt från en pillager",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "Ett Kladdigt Avtal",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "Få en förbannad smaragdmynt från en slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "Rikedomens Tyngd",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "Få en förbannad smaragdmynt från en järngolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "Drakens Hunger",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "Få en förbannad netheritmynt från en enderdrake",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "Witherns Pris",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "Få en förbannad netheritmynt från en wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "Ett Riskabelt Spel",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "Få en förbannad netheritmynt från ben och skallar",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "Oturens Mynt",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "Få alla förbannade kopparmynt",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "Tung Ficka",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "Få alla förbannade järnmynt",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "Jägare av Förbannade Skatter",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "Få alla förbannade guldmynt",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "Förbannelsen av Rikedom",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "Få alla förbannade smaragdmynt",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "Priset för Berömmelse",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "Få alla förbannade netheritmynt"
+
+}

@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "מטבע נחושת מקוללת של גולם ברזל",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "מטבע נחושת מקוללת של זומבי",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "מטבע ברזל מקוללת של גולם",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "מטבע ברזל מקוללת של דג כסף",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "מטבע ברזל מקוללת של וקס",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "מטבע זהב מקוללת של בלייז",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "מטבע זהב מקוללת של גאסט",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "מטבע זהב מקוללת של קוביית מגמה",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "מטבע זהב מקוללת של ויד'ר",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "מטבע אזמרגד מקוללת של פיילג'ר",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "מטבע אזמרגד מקוללת של סליים",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "מטבע אזמרגד מקוללת של גולם ברזל",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "מטבע נדר רייט מקוללת של דרקון הסוף",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "מטבע נדר רייט מקוללת של ויד'ר",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "מטבע נדר רייט מקוללת של עצמות וגולגולות",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "מטבעות מקוללות",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "מקוללות על ידי מכשפות מכל העולם",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "משקל האחריות",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "השג מטבע נחושת מקוללת של גולם ברזל",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "טעם יוקרתי",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "השג מטבע נחושת מקוללת של זומבי",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "יום עבודה קשה",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "השג מטבע ברזל מקוללת של גולם",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "כסף עם כנפיים",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "השג מטבע ברזל מקוללת של וקס",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "קטן אך כבד",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "השג מטבע ברזל מקוללת של דג כסף",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "חוש את האש",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "השג מטבע זהב מקוללת של בלייז",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "היסטוריה כבדה ועשירה",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "השג מטבע זהב מקוללת של גאסט",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "מגמה רותחת",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "השג מטבע זהב מקוללת של קוביית מגמה",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "ריקבון המשקל",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "השג מטבע זהב מקוללת של ויד'ר",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "סימן מבשר רעות",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "השג מטבע אזמרגד מקוללת של פיילג'ר",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "עסקה דביקה",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "השג מטבע אזמרגד מקוללת של סליים",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "משקל העושר",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "השג מטבע אזמרגד מקוללת של גולם ברזל",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "רעב הדרקון",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "השג מטבע נדר רייט מקוללת של דרקון הסוף",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "מחיר הוויד'ר",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "השג מטבע נדר רייט מקוללת של ויד'ר",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "הימור מסוכן",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "השג מטבע נדר רייט מקוללת של עצמות וגולגולות",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "מטבע ביש מזל",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "השג את כל מטבעות הנחושת המקוללות",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "כיס כבד",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "השג את כל מטבעות הברזל המקוללות",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "צייד האוצרות המקוללים",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "השג את כל מטבעות הזהב המקוללות",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "קללת העושר",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "השג את כל מטבעות האזמרגד המקוללות",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "מחיר התהילה",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "השג את כל מטבעות הנדר רייט המקוללות"
+
+}
