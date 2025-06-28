@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "villagerunknown-villagercoin:cursed_copper_iron_golem_coin",
+    "villagerunknown-villagercoin:cursed_copper_zombie_coin",
+
+    "villagerunknown-villagercoin:cursed_iron_golem_coin",
+    "villagerunknown-villagercoin:cursed_iron_vex_coin",
+    "villagerunknown-villagercoin:cursed_iron_silverfish_coin",
+
+    "villagerunknown-villagercoin:cursed_gold_blaze_coin",
+    "villagerunknown-villagercoin:cursed_gold_ghast_coin",
+    "villagerunknown-villagercoin:cursed_gold_magma_cube_coin",
+    "villagerunknown-villagercoin:cursed_gold_wither_coin",
+
+    "villagerunknown-villagercoin:cursed_emerald_pillager_coin",
+    "villagerunknown-villagercoin:cursed_emerald_slime_coin",
+    "villagerunknown-villagercoin:cursed_emerald_iron_golem_coin",
+
+    "villagerunknown-villagercoin:cursed_netherite_ender_dragon_coin",
+    "villagerunknown-villagercoin:cursed_netherite_wither_coin",
+    "villagerunknown-villagercoin:cursed_netherite_skull_crossbones_coin"
+  ]
+}

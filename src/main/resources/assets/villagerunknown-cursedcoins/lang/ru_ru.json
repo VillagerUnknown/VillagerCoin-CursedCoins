@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "Проклятая медная монета железного голема",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "Проклятая медная монета зомби",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "Проклятая железная монета голема",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "Проклятая железная монета чешуйницы",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "Проклятая железная монета векса",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "Проклятая золотая монета ифрита",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "Проклятая золотая монета гастa",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "Проклятая золотая монета магмового куба",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "Проклятая золотая монета визера",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "Проклятая изумрудная монета разбойника",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "Проклятая изумрудная монета слизи",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "Проклятая изумрудная монета железного голема",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "Проклятая незеритовая монета дракона края",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "Проклятая незеритовая монета визера",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "Проклятая незеритовая монета костей и черепов",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "Проклятые монеты",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "Прокляты ведьмами со всего света",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "Бремя ответственности",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "Получите проклятую медную монету железного голема",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "Вкус высшей кухни",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "Получите проклятую медную монету зомби",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "Тяжёлый рабочий день",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "Получите проклятую железную монету голема",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "Деньги с крыльями",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "Получите проклятую железную монету векса",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "Мал, да весом",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "Получите проклятую железную монету чешуйницы",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "Ощути жар",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "Получите проклятую золотую монету ифрита",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "Богатая и страшная история",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "Получите проклятую золотую монету гастa",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "Горячая магма",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "Получите проклятую золотую монету магмового куба",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "Гниль тяжести",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "Получите проклятую золотую монету визера",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "Дурное предзнаменование",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "Получите проклятую изумрудную монету разбойника",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "Липкая сделка",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "Получите проклятую изумрудную монету слизи",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "Бремя богатства",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "Получите проклятую изумрудную монету железного голема",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "Голод дракона",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "Получите проклятую незеритовую монету дракона края",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "Цена визера",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "Получите проклятую незеритовую монету визера",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "Рискованная ставка",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "Получите проклятую незеритовую монету костей и черепов",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "Монета невезения",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "Соберите все проклятые медные монеты",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "Тяжёлый карман",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "Соберите все проклятые железные монеты",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "Охотник за проклятым сокровищем",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "Соберите все проклятые золотые монеты",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "Проклятие богатства",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "Соберите все проклятые изумрудные монеты",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "Цена славы",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "Соберите все проклятые незеритовые монеты"
+
+}

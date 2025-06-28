@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "Moeda de Cobre Amaldiçoada do Golem de Ferro",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "Moeda de Cobre Amaldiçoada do Zumbi",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "Moeda de Ferro Amaldiçoada do Golem",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "Moeda de Ferro Amaldiçoada do Peixe Prateado",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "Moeda de Ferro Amaldiçoada do Vex",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "Moeda de Ouro Amaldiçoada do Blaze",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "Moeda de Ouro Amaldiçoada do Ghast",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "Moeda de Ouro Amaldiçoada do Cubo de Magma",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "Moeda de Ouro Amaldiçoada do Wither",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "Moeda de Esmeralda Amaldiçoada do Saqueador",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "Moeda de Esmeralda Amaldiçoada do Slime",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "Moeda de Esmeralda Amaldiçoada do Golem de Ferro",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "Moeda de Netherita Amaldiçoada do Dragão do Fim",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "Moeda de Netherita Amaldiçoada do Wither",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "Moeda de Netherita Amaldiçoada de Ossos e Crânios",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "Moedas Amaldiçoadas",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "Amaldiçoadas por bruxas de todo o mundo",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "O Peso da Responsabilidade",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "Obtenha uma Moeda de Cobre Amaldiçoada do Golem de Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "Um Gosto por Alta Culinária",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "Obtenha uma Moeda de Cobre Amaldiçoada do Zumbi",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "Um Dia de Trabalho Pesado",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "Obtenha uma Moeda de Ferro Amaldiçoada do Golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "Dinheiro com Asas",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "Obtenha uma Moeda de Ferro Amaldiçoada do Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "Pequena mas Pesada",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "Obtenha uma Moeda de Ferro Amaldiçoada do Peixe Prateado",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "Sinta o Fogo",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "Obtenha uma Moeda de Ouro Amaldiçoada do Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "Uma História Rica e Pesada",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "Obtenha uma Moeda de Ouro Amaldiçoada do Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "Magma Escaldante",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "Obtenha uma Moeda de Ouro Amaldiçoada do Cubo de Magma",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "Decadência pelo Peso",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "Obtenha uma Moeda de Ouro Amaldiçoada do Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "Um Presságio Ruim",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "Obtenha uma Moeda de Esmeralda Amaldiçoada do Saqueador",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "Uma Transação Pegajosa",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "Obtenha uma Moeda de Esmeralda Amaldiçoada do Slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "O Peso da Riqueza",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "Obtenha uma Moeda de Esmeralda Amaldiçoada do Golem de Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "A Fome do Dragão",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "Obtenha uma Moeda de Netherita Amaldiçoada do Dragão do Fim",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "O Valor do Wither",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "Obtenha uma Moeda de Netherita Amaldiçoada do Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "Uma Aposta Arriscada",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "Obtenha uma Moeda de Netherita Amaldiçoada de Ossos e Crânios",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "Centavo da Má Sorte",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "Obtenha todas as Moedas de Cobre Amaldiçoadas",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "Bolso Pesado",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "Obtenha todas as Moedas de Ferro Amaldiçoadas",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "Caçador de Tesouros Amaldiçoados",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "Obtenha todas as Moedas de Ouro Amaldiçoadas",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "As Maldições da Riqueza",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "Obtenha todas as Moedas de Esmeralda Amaldiçoadas",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "O Preço da Fama",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "Obtenha todas as Moedas de Netherita Amaldiçoadas"
+
+}

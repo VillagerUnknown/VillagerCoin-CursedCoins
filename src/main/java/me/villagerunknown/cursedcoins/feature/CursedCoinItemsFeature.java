@@ -6,7 +6,6 @@ import me.villagerunknown.villagercoin.feature.InventoryEffectCoinFeature;
 public class CursedCoinItemsFeature {
 	
 	public static void execute() {
-		InventoryEffectCoinFeature.execute();
 		new CursedCoinItems();
 	}
 	

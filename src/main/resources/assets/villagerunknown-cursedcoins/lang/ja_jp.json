@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "呪われた銅のアイアンゴーレムコイン",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "呪われた銅のゾンビコイン",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "呪われた鉄のゴーレムコイン",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "呪われた鉄のシルバーフィッシュコイン",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "呪われた鉄のヴェックスコイン",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "呪われた金のブレイズコイン",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "呪われた金のガストコイン",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "呪われた金のマグマキューブコイン",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "呪われた金のウィザーコイン",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "呪われたエメラルドのピリジャーコイン",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "呪われたエメラルドのスライムコイン",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "呪われたエメラルドのアイアンゴーレムコイン",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "呪われたネザライトのエンダードラゴンコイン",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "呪われたネザライトのウィザーコイン",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "呪われたネザライトのスカル＆ボーンズコイン",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "呪われたコイン",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "世界中の魔女によって呪われた",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "責任の重さ",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "呪われた銅のアイアンゴーレムコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "グルメな味覚",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "呪われた銅のゾンビコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "重労働の一日",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "呪われた鉄のゴーレムコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "羽のある金",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "呪われた鉄のヴェックスコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "小さくても重い",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "呪われた鉄のシルバーフィッシュコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "炎を感じて",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "呪われた金のブレイズコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "重くて豊かな歴史",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "呪われた金のガストコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "熱々のマグマ",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "呪われた金のマグマキューブコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "崩壊の重み",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "呪われた金のウィザーコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "不吉な予感",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "呪われたエメラルドのピリジャーコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "ネバネバ取引",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "呪われたエメラルドのスライムコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "富の重み",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "呪われたエメラルドのアイアンゴーレムコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "ドラゴンの飢え",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "呪われたネザライトのエンダードラゴンコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "ウィザーの代償",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "呪われたネザライトのウィザーコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "危険な賭け",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "呪われたネザライトのスカル＆ボーンズコインを手に入れる",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "不運の一銭",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "呪われた銅のコインをすべて手に入れる",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "ずっしりポケット",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "呪われた鉄のコインをすべて手に入れる",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "呪われた宝探し",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "呪われた金のコインをすべて手に入れる",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "富の呪い",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "呪われたエメラルドのコインをすべて手に入れる",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "名声の代価",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "呪われたネザライトのコインをすべて手に入れる"
+
+}

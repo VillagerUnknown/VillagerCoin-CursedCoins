@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "Moneta Maledetta di Rame del Golem di Ferro",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "Moneta Maledetta di Rame dello Zombi",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "Moneta Maledetta di Ferro del Golem",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "Moneta Maledetta di Ferro del Silverfish",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "Moneta Maledetta di Ferro del Vex",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "Moneta Maledetta d’Oro del Blaze",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "Moneta Maledetta d’Oro del Ghast",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "Moneta Maledetta d’Oro del Cubo di Magma",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "Moneta Maledetta d’Oro del Wither",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "Moneta Maledetta di Smeraldo del Pillager",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "Moneta Maledetta di Smeraldo dello Slime",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "Moneta Maledetta di Smeraldo del Golem di Ferro",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "Moneta Maledetta di Netherite del Drago dell’End",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "Moneta Maledetta di Netherite del Wither",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "Moneta Maledetta di Netherite di Teschi e Ossa",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "Monete Maledette",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "Maledette da streghe di tutto il mondo",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "Il Peso della Responsabilità",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "Ottieni una Moneta Maledetta di Rame del Golem di Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "Un Gusto Raffinato",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "Ottieni una Moneta Maledetta di Rame dello Zombi",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "Una Giornata di Lavoro Dura",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "Ottieni una Moneta Maledetta di Ferro del Golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "Denaro con le Ali",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "Ottieni una Moneta Maledetta di Ferro del Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "Piccolo ma Pesante",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "Ottieni una Moneta Maledetta di Ferro del Silverfish",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "Sentire il Fuoco",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "Ottieni una Moneta Maledetta d’Oro del Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "Una Storia Ricca e Pesante",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "Ottieni una Moneta Maledetta d’Oro del Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "Magma Bollente",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "Ottieni una Moneta Maledetta d’Oro del Cubo di Magma",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "Marciume del Peso",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "Ottieni una Moneta Maledetta d’Oro del Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "Un Presagio Oscuro",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "Ottieni una Moneta Maledetta di Smeraldo del Pillager",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "Una Trattativa Viscosa",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "Ottieni una Moneta Maledetta di Smeraldo dello Slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "Il Peso della Ricchezza",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "Ottieni una Moneta Maledetta di Smeraldo del Golem di Ferro",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "La Fame del Drago",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "Ottieni una Moneta Maledetta di Netherite del Drago dell’End",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "Il Prezzo del Wither",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "Ottieni una Moneta Maledetta di Netherite del Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "Una Scommessa Pericolosa",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "Ottieni una Moneta Maledetta di Netherite di Teschi e Ossa",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "La Moneta della Sfortuna",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "Ottieni tutte le Monete Maledette di Rame",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "Una Tasca Pesante",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "Ottieni tutte le Monete Maledette di Ferro",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "Cacciatore di Tesori Maledetti",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "Ottieni tutte le Monete Maledette d’Oro",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "La Maledizione della Ricchezza",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "Ottieni tutte le Monete Maledette di Smeraldo",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "Il Prezzo della Fama",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "Ottieni tutte le Monete Maledette di Netherite"
+
+}

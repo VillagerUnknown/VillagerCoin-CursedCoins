@@ -69,7 +69,18 @@ Each type of coin has a limited number in circulation.
 
 ### Supported Languages
 
-A **HUGE** thanks to the users that contributed translations!
+* English _by VillagerUnknown_
+* Pirate English
+* Svenska (Swedish)
+* Français (French)
+* Italiano (Italian)
+* Deutsch (German)
+* Português do Brasil (Brazil Portuguese)
+* Русский (Russian)
+* 한국어 (Korean)
+* 简体中文 (Simplified Chinese) _by Github user Ansurfen_
+* 日本語 (Japanese)
+* हिन्दी (Hindi)
+* (Hebrew) עברית
 
-* English
-* 简体中文 (Simplified Chinese) by Github user Ansurfen
+_Disclaimer: Unless noted otherwise, translations have been provided by automated services._
