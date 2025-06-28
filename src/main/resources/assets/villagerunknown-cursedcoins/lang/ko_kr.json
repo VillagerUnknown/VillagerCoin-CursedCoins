@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "철 골렘의 저주받은 구리 동전",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "좀비의 저주받은 구리 동전",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "골렘의 저주받은 철 동전",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "실버피시의 저주받은 철 동전",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "벡스의 저주받은 철 동전",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "블레이즈의 저주받은 금 동전",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "가스트의 저주받은 금 동전",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "마그마 큐브의 저주받은 금 동전",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "위더의 저주받은 금 동전",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "약탈자의 저주받은 에메랄드 동전",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "슬라임의 저주받은 에메랄드 동전",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "철 골렘의 저주받은 에메랄드 동전",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "엔드 드래곤의 저주받은 네더라이트 동전",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "위더의 저주받은 네더라이트 동전",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "해골과 뼈의 저주받은 네더라이트 동전",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "저주받은 동전",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "전 세계 마녀들의 저주가 깃든",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "책임의 무게",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "철 골렘의 저주받은 구리 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "고급 요리를 즐기는 맛",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "좀비의 저주받은 구리 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "힘든 하루의 노동",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "골렘의 저주받은 철 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "날개 달린 돈",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "벡스의 저주받은 철 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "작지만 묵직한",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "실버피시의 저주받은 철 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "불꽃을 느껴라",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "블레이즈의 저주받은 금 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "무거운 역사",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "가스트의 저주받은 금 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "뜨거운 마그마",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "마그마 큐브의 저주받은 금 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "무게의 부패",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "위더의 저주받은 금 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "불길한 징조",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "약탈자의 저주받은 에메랄드 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "끈적한 거래",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "슬라임의 저주받은 에메랄드 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "부의 무게",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "철 골렘의 저주받은 에메랄드 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "드래곤의 배고픔",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "엔드 드래곤의 저주받은 네더라이트 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "위더의 대가",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "위더의 저주받은 네더라이트 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "위험한 도박",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "해골과 뼈의 저주받은 네더라이트 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "불운의 동전",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "모든 저주받은 구리 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "무거운 주머니",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "모든 저주받은 철 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "저주받은 보물 사냥꾼",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "모든 저주받은 금 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "부의 저주",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "모든 저주받은 에메랄드 동전을 얻기",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "명성의 대가",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "모든 저주받은 네더라이트 동전을 얻기"
+
+}

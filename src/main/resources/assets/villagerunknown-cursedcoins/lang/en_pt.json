@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "Cursed Copper Doubloon o' the Iron Golem",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "Cursed Copper Doubloon o' the Zombie",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "Cursed Iron Doubloon o' the Golem",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "Cursed Iron Doubloon o' the Silverfish",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "Cursed Iron Doubloon o' the Vex",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "Cursed Gold Doubloon o' the Blaze",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "Cursed Gold Doubloon o' the Ghast",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "Cursed Gold Doubloon o' the Magma Cube",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "Cursed Gold Doubloon o' the Wither",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "Cursed Emerald Doubloon o' the Pillager",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "Cursed Emerald Doubloon o' the Slime",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "Cursed Emerald Doubloon o' the Iron Golem",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "Cursed Netherite Doubloon o' the Ender Dragon",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "Cursed Netherite Doubloon o' the Wither",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "Cursed Netherite Doubloon o' Bones and Skulls",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "Cursed Coins",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "Cursed by sea hags across the seven seas",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "The Burden o' Duty",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "Snag a cursed copper doubloon from an iron golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "A Taste o' Fine Cookin’",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "Snag a cursed copper doubloon from a zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "Hard Day’s Haul",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "Snag a cursed iron doubloon from a golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "Gold With Wings",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "Snag a cursed iron doubloon from a vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "Small but Hefty",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "Snag a cursed iron doubloon from a silverfish",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "Feel the Fire",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "Snag a cursed gold doubloon from a blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "Rich and Rusty Tales",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "Snag a cursed gold doubloon from a ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "Boilin’ Magma Brew",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "Snag a cursed gold doubloon from a magma cube",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "Weight o’ Rot",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "Snag a cursed gold doubloon from a wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "A Foul Omen",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "Snag a cursed emerald doubloon from a pillager",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "Sticky Dealings",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "Snag a cursed emerald doubloon from a slime",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "Wealth Be Heavy",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "Snag a cursed emerald doubloon from an iron golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "The Dragon’s Cravin’",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "Snag a cursed netherite doubloon from the ender dragon",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "The Wither’s Toll",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "Snag a cursed netherite doubloon from the wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "A Perilous Wager",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "Snag a cursed netherite doubloon from bones and skulls",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "Penny o’ Bad Luck",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "Snag all cursed copper doubloons",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "A Heavy Purse",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "Snag all cursed iron doubloons",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "Cursed Booty Hunter",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "Snag all cursed gold doubloons",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "The Curse o’ Riches",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "Snag all cursed emerald doubloons",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "The Cost o’ Glory",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "Snag all cursed netherite doubloons"
+
+}

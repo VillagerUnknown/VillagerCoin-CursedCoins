@@ -2,12 +2,6 @@
 
   "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
 
-  "text.autoconfig.villagerunknown-cursedcoins.category.General": "General",
-
-  "text.autoconfig.villagerunknown-cursedcoins.option.enableTheUnknown": "Enable The Unknown",
-
-  "tag.item.villagerunknown-villagercoin.cursed": "Cursed Villager Coin",
-
   "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "Cursed Copper Iron Golem Coin",
   "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "Cursed Copper Zombie Coin",
 

@@ -1,0 +1,88 @@
+{
+
+  "text.autoconfig.villagerunknown-cursedcoins.title": "VillagerUnknown's Cursed Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.cursed_copper_iron_golem_coin": "Verfluchte Kupfermünze vom Eisengolem",
+  "item.villagerunknown-villagercoin.cursed_copper_zombie_coin": "Verfluchte Kupfermünze vom Zombie",
+
+  "item.villagerunknown-villagercoin.cursed_iron_golem_coin": "Verfluchte Eisenmünze vom Golem",
+  "item.villagerunknown-villagercoin.cursed_iron_silverfish_coin": "Verfluchte Eisenmünze vom Silberfisch",
+  "item.villagerunknown-villagercoin.cursed_iron_vex_coin": "Verfluchte Eisenmünze vom Vex",
+
+  "item.villagerunknown-villagercoin.cursed_gold_blaze_coin": "Verfluchte Goldmünze vom Blaze",
+  "item.villagerunknown-villagercoin.cursed_gold_ghast_coin": "Verfluchte Goldmünze vom Ghast",
+  "item.villagerunknown-villagercoin.cursed_gold_magma_cube_coin": "Verfluchte Goldmünze vom Magmawürfel",
+  "item.villagerunknown-villagercoin.cursed_gold_wither_coin": "Verfluchte Goldmünze vom Wither",
+
+  "item.villagerunknown-villagercoin.cursed_emerald_pillager_coin": "Verfluchte Smaragdmünze vom Plünderer",
+  "item.villagerunknown-villagercoin.cursed_emerald_slime_coin": "Verfluchte Smaragdmünze vom Schleim",
+  "item.villagerunknown-villagercoin.cursed_emerald_iron_golem_coin": "Verfluchte Smaragdmünze vom Eisengolem",
+
+  "item.villagerunknown-villagercoin.cursed_netherite_ender_dragon_coin": "Verfluchte Netheritmünze vom Enderdrachen",
+  "item.villagerunknown-villagercoin.cursed_netherite_wither_coin": "Verfluchte Netheritmünze vom Wither",
+  "item.villagerunknown-villagercoin.cursed_netherite_skull_crossbones_coin": "Verfluchte Netheritmünze von Knochen und Schädeln",
+
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.title": "Verfluchte Münzen",
+  "advancements.villagerunknown-villagercoin.cursed_coins.root.description": "Verflucht von Hexen aus aller Welt",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.title": "Die Last der Verantwortung",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_iron_golem_coin.description": "Erhalte eine verfluchte Kupfermünze vom Eisengolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.title": "Ein Geschmack für feine Küche",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_copper_zombie_coin.description": "Erhalte eine verfluchte Kupfermünze vom Zombie",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.title": "Ein harter Arbeitstag",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_golem_coin.description": "Erhalte eine verfluchte Eisenmünze vom Golem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.title": "Geld mit Flügeln",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_vex_coin.description": "Erhalte eine verfluchte Eisenmünze vom Vex",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.title": "Klein, aber schwer",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_iron_silverfish_coin.description": "Erhalte eine verfluchte Eisenmünze vom Silberfisch",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.title": "Spüre das Feuer",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_blaze_coin.description": "Erhalte eine verfluchte Goldmünze vom Blaze",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.title": "Eine reiche, schwere Geschichte",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_ghast_coin.description": "Erhalte eine verfluchte Goldmünze vom Ghast",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.title": "Heiße Magmaflut",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_magma_cube_coin.description": "Erhalte eine verfluchte Goldmünze vom Magmawürfel",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.title": "Verfall durch Gewicht",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_gold_wither_coin.description": "Erhalte eine verfluchte Goldmünze vom Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.title": "Ein schlechtes Omen",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_pillager_coin.description": "Erhalte eine verfluchte Smaragdmünze vom Plünderer",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.title": "Klebriges Geschäft",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_slime_coin.description": "Erhalte eine verfluchte Smaragdmünze vom Schleim",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.title": "Die Last des Reichtums",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_emerald_iron_golem_coin.description": "Erhalte eine verfluchte Smaragdmünze vom Eisengolem",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.title": "Der Hunger des Drachen",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_ender_dragon_coin.description": "Erhalte eine verfluchte Netheritmünze vom Enderdrachen",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.title": "Der Preis des Withers",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_wither_coin.description": "Erhalte eine verfluchte Netheritmünze vom Wither",
+
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.title": "Ein riskantes Spiel",
+  "advancements.villagerunknown-villagercoin.pickup_cursed_netherite_skull_crossbones_coin.description": "Erhalte eine verfluchte Netheritmünze von Knochen und Schädeln",
+
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.title": "Münze des Unglücks",
+  "advancements.villagerunknown-villagercoin.cursed_copper_coins.description": "Sammle alle verfluchten Kupfermünzen",
+
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.title": "Schwere Tasche",
+  "advancements.villagerunknown-villagercoin.cursed_iron_coins.description": "Sammle alle verfluchten Eisenmünzen",
+
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.title": "Jäger verfluchter Schätze",
+  "advancements.villagerunknown-villagercoin.cursed_gold_coins.description": "Sammle alle verfluchten Goldmünzen",
+
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.title": "Der Fluch des Reichtums",
+  "advancements.villagerunknown-villagercoin.cursed_emerald_coins.description": "Sammle alle verfluchten Smaragdmünzen",
+
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.title": "Der Preis des Ruhms",
+  "advancements.villagerunknown-villagercoin.cursed_netherite_coins.description": "Sammle alle verfluchten Netheritmünzen"
+
+}
